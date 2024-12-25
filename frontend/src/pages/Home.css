@@ -1,0 +1,22 @@
+
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.homepage-container {
+    padding: 20px;
+    text-align: center;
+    background: linear-gradient(to bottom, #f0f4ff, #e1ebff);
+    min-height: 100vh;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .book-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
